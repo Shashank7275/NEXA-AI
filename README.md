@@ -71,10 +71,18 @@ Project folder ke andar ek **.env** file create karein.
 Example:
 
 ```text
-GEMINI_API_KEY=your_api_key
-OPENAI_API_KEY=your_api_key
-ELEVENLABS_API_KEY=your_api_key
-MISTRAL_API_KEY=your_api_key
+LIVEKIT_URL=
+LIVEKIT_API_KEY=
+LIVEKIT_API_SECRET=
+
+GOOGLE_API_KEY=
+
+GOOGLE_SEARCH_API_KEY=
+SEARCH_ENGINE_ID=
+
+OPENWEATHER_API_KEY=
+
+OPENAI_API_KEY=
 # Add other API keys if required
 ```
 
